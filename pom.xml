@@ -114,7 +114,7 @@
 	<repository>
 		<id>github</id>
 		<name>GitHub OWNER Apache Maven Packages</name>
-		<url>https://maven.pkg.github.com/nhutphuongasasa/starter</url>
+		<url>https://maven.pkg.github.com/nhutphuongasasa/auth-starter</url>
 	</repository>
 	</distributionManagement>
 
